@@ -26,4 +26,5 @@ The following animation shows GET/put/post/delete routes for users and  thoughts
 Demo that shows the POST and DELETE routes for a user’s friend list and reaction being tested in Insomnia.
 ![video](https://drive.google.com/file/d/1k5hB6YF5TTsi-nQuZkddbE87nifDRKN_/view)
 
+[Deployed Link](https://samiyeahsan.github.io/social_networking/)
 
