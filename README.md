@@ -21,10 +21,10 @@ The following animations show examples of the application's API routes being tes
 
 The following animation shows GET/put/post/delete routes for users and  thoughts being tested in Insomnia:
 
-[video](https://drive.google.com/file/d/17IvSSutLkMndSss-HdVpe3ABGX5fiveU/view)
+[video](./Assets/video-18/Untitled_%20Dec%202,%202023%208_04%20PM.webm)
 
 Demo that shows the POST and DELETE routes for a user’s friend list and reaction being tested in Insomnia.
-[video](https://drive.google.com/file/d/1k5hB6YF5TTsi-nQuZkddbE87nifDRKN_/view)
+[video](./Assets/video-18/Untitled_%20Dec%202,%202023%208_11%20PM.webm)
 
 [Deployed Link](https://samiyeahsan.github.io/social_networking/)
 
